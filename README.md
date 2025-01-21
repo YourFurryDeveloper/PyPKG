@@ -4,12 +4,15 @@ A simple Python package manager that you can implement into your Python operatin
 ## All functions
 
 > instPkg(pkg)
+
 Appends ".py" to the pkg variable input and installs the package from your webserver/repo.
 
 > instPkgHelp(pkg2)
+
 Gets the .txt file of the name of the package with help on how to use the package.
 
 > removePkg(pkgDir)
+
 Deletes the specified package.
 
 ## How it works
