@@ -20,6 +20,4 @@ It takes input from the instPkg() function. You put the name of the package on y
 
 The "URL" variable is the URL of your webserver/repo that you want your files to be in.
 
-# ----------
-
 Also, sorry if I didn't explain it the best, I'm new to GitHub and have never really had to explain how my code works in-depth lol :)
